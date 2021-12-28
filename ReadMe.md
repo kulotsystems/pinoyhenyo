@@ -1,7 +1,7 @@
 ## Introduction
 This is another project I made in year 2014 when I was first learning how to do asynchronous JavaScript calls.
 
-This project was inspired by a word and mind game of the same name in Eat Bulaga (GMA 7), but this version is played through typing in a keyboard.
+This project was inspired by a word and mind game with the same name in Eat Bulaga (GMA 7), but this version is played through typing in a keyboard.
 
 <br>
 
