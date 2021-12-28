@@ -1,0 +1,7 @@
+q |*| Pangyayari? |*| 
+a |*| Hindi |*| 
+q |*| lugar? |*| 
+a |*| Hindi |*| 
+q |*| bagay? |*| 
+a |*| Oo |*| 
+q |*| sipilyo |*| 

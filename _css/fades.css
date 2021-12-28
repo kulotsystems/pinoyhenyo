@@ -1,0 +1,116 @@
+@keyframes td-Oo{
+
+	0%{background-color: #7777fc;}
+	100%{background-color: #babafd;}
+}
+@-moz-keyframes td-Oo{
+
+	0%{background-color: #7777f;}
+	100%{background-color: #babafd;}
+}
+@-webkit-keyframes td-Oo{
+
+	0%{background-color: #7777fc;}
+	100%{background-color: #babafd;}
+}
+@-o-keyframes td-Oo{
+
+	0%{background-color: #7777fc;}
+	100%{background-color: #babafd;}
+}
+
+.fade-Oo{
+	animation: td-Oo 1.3s;
+	-moz-animation: td-Oo 1.3s;
+	-webkit-animation: td-Oo 1.3s;
+	-o-animation: td-Oo 1.3s;
+	background-color: #babafd;
+	color: blue;
+}
+
+/*--------------------------------------------------------*/
+@keyframes td-Hindi{
+	0%{background-color: #fc8080;}
+	100%{background-color: #fec8c8;}
+}
+@-moz-keyframes td-Hindi{
+	0%{background-color: #fc8080;}
+	100%{background-color: #fec8c8;}
+}
+@-webkit-keyframes td-Hindi{
+	0%{background-color: #fc8080;}
+	100%{background-color: #fec8c8;}
+}
+@-o-keyframes td-Hindi{
+	0%{background-color: #fc8080 ;}
+	100%{background-color: #fec8c8;}
+}
+
+.fade-Hindi{
+	animation: td-Hindi 1.3s;
+	-moz-animation: td-Hindi 1.3s;
+	-webkit-animation: td-Hindi 1.3s;
+	-o-animation: td-Hindi 1.3s;
+	background-color: #fec8c8;color: red;
+}
+
+/*--------------------------------------------------------*/
+@keyframes td-Pwede{
+	0%{background-color: #62d262;}
+	100%{background-color: #bbd6bb;}
+}
+@-moz-keyframes td-Pwede{
+	0%{background-color: #62d262;}
+	100%{background-color: #bbd6bb;}
+}
+@-webkit-keyframes td-Pwede{
+	0%{background-color: #62d262;}
+	100%{background-color: #bbd6bb;}
+}
+@-o-keyframes td-Pwede{
+	0%{background-color: #62d262 ;}
+	100%{background-color: #bbd6bb;}
+}
+
+.fade-Pwede{
+	animation: td-Pwede 1.3s;
+	-moz-animation: td-Pwede 1.3s;
+	-webkit-animation: td-Pwede 1.3s;
+	-o-animation: td-Pwede 1.3s;
+	background-color: #bbd6bb;color: #008900;
+}
+
+*--------------------------------------------------------*/
+@keyframes td-TimesUp{
+	0%{background-color:#777; color:#ddd;}
+	50%{background-color:#999; color:white;}
+	100%{background-color:#777; color:#ddd;}
+}
+@-moz-keyframes td-TimesUp{
+	0%{background-color: #777; color:#ddd;}
+	50%{background-color:#999; color:white;}
+	100%{background-color:#777; color:#ddd;}
+}
+@-webkit-keyframes td-TimesUp{
+	0%{background-color:#777; color:#ddd;}
+	50%{background-color:#999; color:white;}
+	100%{background-color:#777; color:#ddd;}
+}
+@-o-keyframes td-TimesUp{
+	0%{background-color:#777; color:#ddd;}
+	50%{background-color:#999; color:white;}
+	100%{background-color:#777; color:#ddd;}
+}
+.timesup{
+	animation: td-TimesUp 1.5s;
+	-moz-animation: td-TimesUp 1.5s;
+	-webkit-animation: td-TimesUp 1.5s;
+	-o-animation: td-TimesUp 1.5s;
+	animation-iteration-count:infinite;
+	-moz-animation-iteration-count:infinite;
+	-webkit-animation-iteration-count:infinite;
+	-o-animation-iteration-count:infinite;
+	text-align:center;
+	background-color:#777; color:#ddd;
+	
+}
