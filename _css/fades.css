@@ -5,7 +5,7 @@
 }
 @-moz-keyframes td-Oo{
 
-	0%{background-color: #7777f;}
+	0%{background-color: #7777fc;}
 	100%{background-color: #babafd;}
 }
 @-webkit-keyframes td-Oo{
@@ -80,7 +80,7 @@
 	background-color: #bbd6bb;color: #008900;
 }
 
-*--------------------------------------------------------*/
+/*--------------------------------------------------------*/
 @keyframes td-TimesUp{
 	0%{background-color:#777; color:#ddd;}
 	50%{background-color:#999; color:white;}
